@@ -3,8 +3,9 @@
 This project was developed as a team project.
 
 ## Repository:
+```bash
 https://github.com/asandan/attendease-api
-
+```
 ### My contribution
 
 • Database models
