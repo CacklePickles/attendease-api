@@ -8,8 +8,11 @@ https://github.com/asandan/attendease-api
 My contribution
 
 • Database models
+
 • Backend development
+
 • REST API
+
 • Git workflow
 
 My branches
