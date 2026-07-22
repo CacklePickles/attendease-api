@@ -2,10 +2,10 @@
 
 This project was developed as a team project.
 
-Repository:
+## Repository:
 https://github.com/asandan/attendease-api
 
-My contribution
+### My contribution
 
 • Database models
 
@@ -15,7 +15,7 @@ My contribution
 
 • Git workflow
 
-My branches
+#### My branches
 
 implement-db-models
 
